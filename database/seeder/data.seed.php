@@ -50,7 +50,7 @@
 
                                 Alle Projekte werden auf meinem GitHub-Account als Repositories verfügbar sein. Schau gerne vorbei, wenn dich die
                                 Implementierung oder die Softwarearchitektur interessiert. Es werden in Zukunft noch deutlich interessantere und nützliche Projekte entstehen 
-								und u.U. so manche, noch unbekannte, Nischen öffnen.
+                                und u.U. so manche, noch unbekannte, Nischen öffnen.
                             EOT)
             ],
             [
