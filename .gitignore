@@ -1,0 +1,12 @@
+# Database (auto-created at runtime)
+database/news.sqlite
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+
+# Logs
+*.log
